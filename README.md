@@ -14,3 +14,11 @@ provide advices to produce a "Successful Show".
 The audience is then a plausible Content-Maker.
 
 ## Description
+The project was developed via [LookerStudio](https://lookerstudio.google.com/), a software for visualizations provided by Google.
+
+The main features analysed were:
+- Ranking of Movies and Tv-Series over time (from 1945 to 2020)
+- Median Ranking per Genre 
+- Actors
+- Production Countries divided per Genre
+- 
