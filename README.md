@@ -9,7 +9,7 @@ Members:
 - Nicole Gemelli ([Linkedin](https://www.linkedin.com/in/nicole-gemelli-98054a31a/)) 
 - Aurora Castelnovo
 
-Starting from the Kaggle dataset (https://www.kaggle.com/datasets/shivamb/netflix-shows) The *goal* was to create an Interactive Dashboard in order to 
+Starting from the [Kaggle dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows), the *goal* was to create an Interactive Dashboard in order to 
 provide advices to produce a "Successful Show". 
 The audience is then a plausible Content-Maker.
 
