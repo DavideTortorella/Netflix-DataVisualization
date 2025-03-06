@@ -25,3 +25,5 @@ The main features analysed were:
 - Ranking according to Release's Month
 
 ## Files
+'Netflix Dashboard.txt' contains the link to the Dashboard, even accessible directly [here](https://lookerstudio.google.com/u/2/reporting/fe4f844b-2e02-4b17-b804-143915fbfd4c/page/p_inpq61dmnd)
+'the Visualizers' Project.pdf' is the presentation we discussed with professors
