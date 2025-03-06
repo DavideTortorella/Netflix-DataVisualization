@@ -21,4 +21,7 @@ The main features analysed were:
 - Median Ranking per Genre 
 - Actors
 - Production Countries divided per Genre
-- 
+- Evolution of Runtime over time
+- Ranking according to Release's Month
+
+## Files
